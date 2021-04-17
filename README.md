@@ -1,7 +1,4 @@
 # Introduction to JUnit 5 with Maven
-
-All source code examples in the repository are for my [Online Course - Testing Spring Beginner to Guru](https://springframework.guru)
-
 This source code repository contains JUnit 5 test examples with Maven.
 
 ## Setup
